@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Save and Read</string>
+
+    <!--ConfigActivity-->
+    <string name="show_log">Read Data</string>
+    <string name="choose">CHOOSE</string>
+    <string name="save">SAVE</string>
+    <string name="cancel" tools:ignore="ButtonCase">CANCEL</string>
+    <string name="quit">QUIT</string>
+    <string name="settings_saved">Settings saved!</string>
+    <string name="choose_json_file">Choose JSON file:</string>
+    <string name="error_no_file_selected">Error! Please choose a JSON file.</string>
+    <string name="error_wrong_file_extension_selected">Error! The selected file is not a JSON.</string>
+    <string name="accessibility_description">Allows the application to observer input keys from an input device for stop requests</string>
+
+</resources>

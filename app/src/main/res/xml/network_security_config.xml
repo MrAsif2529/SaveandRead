@@ -1,0 +1,7 @@
+<network-security-config xmlns:tools="http://schemas.android.com/tools">
+    <device-config tools:ignore="NetworkSecurityConfig">
+        <wifi-config>
+            <mac-randomization-setting>none</mac-randomization-setting>
+        </wifi-config>
+    </device-config>
+</network-security-config>
